@@ -1,6 +1,6 @@
 {
   "name": "@crashbytes/effect",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Result type, retry, timeout, and structured errors for TypeScript. Zero dependencies.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
